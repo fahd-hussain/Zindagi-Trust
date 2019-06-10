@@ -1,2 +1,1 @@
-# Zindagi-Trust
-Computer Networking project
+This is Zindagi Trust
